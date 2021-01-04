@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>ressources/127960661_183172423452732_4500599527248670551_n.png</file>
+        <file>ressources/128362656_213598176780517_3160026623662294284_n.png</file>
+        <file>ressources/128411451_681880159137485_1506548420732995776_n.png</file>
+        <file>ressources/128439765_3597692763660753_3323737546201286996_n.png</file>
+        <file>ressources/128586817_297996038251568_153686129387149344_n.png</file>
+        <file>ressources/icons8-google-web-recherche-50.png</file>
+        <file>ressources/pngegg.png</file>
+        <file>ressources/—Pngtree—romantic rose border wedding background_980570.png</file>
+        <file>ressources/2.png</file>
+        <file>ressources/pngegg (1) (1).png</file>
+        <file>ressources/stat.png</file>
+        <file>ressources/vert.jpg</file>
+        <file>ressources/blue.jpg</file>
+        <file>ressources/rouge.jpg</file>
+        <file>ressources/login-symbol-of-an-arrow-entering-to-a-black-square_icon-icons.com_72992.png</file>
+        <file>ressources/aaaa.png</file>
+        <file>ressources/128427174_716497792584359_2920960491518879461_n.jpg</file>
+        <file>ressources/logind.png</file>
+    </qresource>
+    <qresource prefix="/song">
+        <file>ressources/elissa-aa-baly-habibi_uCClgMns.mp3</file>
+    </qresource>
+</RCC>
